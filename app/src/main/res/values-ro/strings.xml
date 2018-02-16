@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Irina Picteaza</string>
+    <string name="irina_painting">Irina Picteaza</string>
+    <string name="art_is">Arta este pentru toti!</string>
+    <string name="irina_is">Irina este un artist roman care creeaza uimitoare picturi figurative.</string>
+    <string name="discover">Descopera lumea ei fantastica plina de culori si veselie vizitand pagina Facebook si Website-ul.</string>
+    <string name="website">www.irinapicteaza.ro</string>
+    <string name="facebook">www.facebook.com/Irina.Picteaza/</string>
+    <string name="facebook_logo">Facebook</string>
+    <string name="website_logo">Website</string>
+</resources>

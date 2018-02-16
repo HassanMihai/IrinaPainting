@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_16">16dp</dimen>
+    <dimen name="padding_4">4dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="slogan">30sp</dimen>
+    <dimen name="title">37sp</dimen>
+    <dimen name="description">17sp</dimen>
+    <dimen name="website">14sp</dimen>
+</resources>
